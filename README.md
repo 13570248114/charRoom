@@ -20,11 +20,12 @@ lin in ~/chatRoom λ ./client 127.0.0.1:5555
 sub my
 ```
 - 客户1在my的房间发表言论,客户1和客户2都收到消息:
+客户1:
 ```
 pub my hello
 my: hello
 ```
-
+客户2:  
 ```
 my: hello
 ```
