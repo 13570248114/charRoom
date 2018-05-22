@@ -19,7 +19,8 @@ lin in ~/chatRoom λ ./client 127.0.0.1:5555
 20180522 03:02:02.008392Z  8387 INFO  TcpClient::connect[lin@lin:8387] - connecting to 127.0.0.1:5555 - TcpClient.cc:109
 sub my
 ```
-- 客户1在my的房间发表言论,客户1和客户2都收到消息:     
+- 客户1在my的房间发表言论,客户1和客户2都收到消息:  
+
 客户1:
 ```
 pub my hello
